@@ -1,0 +1,34 @@
+
+body{
+background-image: url(./img/showcase.jpg);
+display: flex;
+flex-direction:column;
+justify-content: center;
+}
+
+#Rubrik{
+    color: blue;
+    background-color: yellow;
+    font-family: "Roboto mono", monospace;
+    text-align: center;
+    border: 2.5px solid black;
+    border-radius: 2.5px;
+}
+
+.gråruta{
+    background-color: gray;
+    margin-bottom: 20px;
+    border: 2.5px solid black;
+    border-radius: 2.5px;
+}
+.svarttext{
+    text-align: center;
+}
+#blanding{
+width: 600px;
+height: 200px;
+margin-left: 330px;
+}
+#css{
+    background-color: white;
+}
