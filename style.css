@@ -20,6 +20,8 @@ justify-content: center;
     margin-bottom: 20px;
     border: 2.5px solid black;
     border-radius: 2.5px;
+margin-left: 15%;
+margin-right: 15%;
 }
 .svarttext{
     text-align: center;
